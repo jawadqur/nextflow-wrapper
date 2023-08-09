@@ -6,7 +6,7 @@
 
 # Overview
 
-This repository contains Golang code to execute Nextflow workflows as a subprocess. The goal is to demonstrate a simple way to invoke Nextflow workflows from Go code. 
+This repository contains Golang code to execute Nextflow workflows through a basic api as subprocesses. The goal is to demonstrate a simple way to invoke Nextflow workflows from Go code. 
 
 The main logic is in `main.go` which does the following:
 
